@@ -9,7 +9,7 @@
 I started my tech studies in 2019, but due to financial challenges, I couldn’t complete my diploma project. Still, I never gave up.
 
 - ✅ In 2022, I completed a Pearson HND in Software Engineering.
-- ✅ In 2023, I had to pause my top-up degree — but I chose to grow through **self-study, building real-world projects, and learning from books**.
+- ✅ In 2024, I had to pause my top-up degree — but I chose to grow through **self-study, building real-world projects, and learning from books**.
 - ✅ I led a student **Mars Rover project** (Taprobane), gaining experience in leadership, system design, and teamwork.
 
 Despite not having a full-time job or formal degree yet, I've built 20+ public projects and read books on:
