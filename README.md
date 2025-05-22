@@ -6,7 +6,7 @@
 
 ## 💡 My Journey
 
-I started my tech studies in 2019, but due to financial challenges, I couldn’t complete my diploma project. Still, I never gave up.
+I began studying tech formally in 2019. Though financial hurdles paused some parts of my academic path, I’ve kept building skills through consistent self-learning and real-world projects.
 
 - ✅ In 2022, I completed a Pearson HND in Software Engineering.
 - ✅ In 2024, I had to pause my top-up degree — but I chose to grow through **self-study, building real-world projects, and learning from books**.
