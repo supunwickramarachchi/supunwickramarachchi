@@ -5,20 +5,26 @@
 ---
 
 ## 💡 My Journey
+I began my journey in tech in 2019 with a strong focus on software engineering. Along the way, I encountered financial challenges — but instead of stopping, I transformed this period into an opportunity to grow independently.
 
-I began studying tech formally in 2019. Though financial hurdles paused some parts of my academic path, I’ve kept building skills through consistent self-learning and real-world projects.
+- ✅ Completed a Pearson HND in Software Engineering in 2022
+- ✅ Chose to focus on real-world projects and self-directed learning while preparing to complete my BSc (Hons)
+- ✅ Led the Taprobane Mars Rover Project (Sri Lanka) — gaining hands-on experience in leadership, teamwork, and system design
+- ✅ Built and maintained 20+ public projects with real-world applications
 
-- ✅ In 2022, I completed a Pearson HND in Software Engineering.
-- ✅ In 2024, I had to pause my top-up degree — but I chose to grow through **self-study, building real-world projects, and learning from books**.
-- ✅ I led a student **Mars Rover project** (Taprobane), gaining experience in leadership, system design, and teamwork.
+During this time, I’ve developed deep skills in:
 
-Despite not having a full-time job or formal degree yet, I've built 20+ public projects and read books on:
-- Python automation
-- Django full-stack development
-- REST APIs
-- AI tools (OpenAI, Gemini)
+- Python automation and scripting
+
+- Django full-stack development & REST APIs
+
+- AI tools like OpenAI & Gemini
+
 - Test-driven development
-- Software architecture (Cosmic Python)
+
+- Software architecture & design patterns (Cosmic Python)
+
+- Project leadership and cross-functional collaboration
 
 ---
 
