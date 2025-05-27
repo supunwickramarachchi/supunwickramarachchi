@@ -10,7 +10,7 @@ I began my journey in tech in 2019 with a strong focus on software engineering. 
 - ✅ Completed a Pearson HND in Software Engineering in 2022
 - ✅ Chose to focus on real-world projects and self-directed learning while preparing to complete my BSc (Hons)
 - ✅ Led the Taprobane Mars Rover Project (Sri Lanka) — gaining hands-on experience in leadership, teamwork, and system design
-- ✅ Built and maintained 20+ public projects with real-world applications
+- ✅ Built and maintained 25+ public projects with real-world applications
 
 During this time, I’ve developed deep skills in:
 
